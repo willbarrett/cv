@@ -1,0 +1,40 @@
+# Will Barrett
+## Web Developer
+
+**Goal:** Have a new adventure. Change the world. Have some fun doing it. My current focus is on Ruby on Rails and MVC Javascript development, though I'm open to other languages and frameworks. I love to learn.
+
+### Professional Experience
+
+###### Associate Instructor, Starter School, Winter 2013
+I will be teaching Deployment Practices at Starter School this winter - we will be covering server configuration and automated deployment of Ruby on Rails web applications. The class was established after the success of a one-day seminar presented to Starter League graduates.
+
+###### Principal Consultant, Tall Green Tree Inc. June 2011-Present
+Started and grew a product development consulting practice from a single consultant to a small team. Built web applications for startups in Chicago, San Francisco, and elsewhere. 
+
+**Clients and Projects:** Rentalutions.com, VentureMena.com, Byliner.com, DashScribe.com, VisitorLabs.com, TOS.io, bluebuzzard.com, pressedgarments.com
+
+###### Web Developer, Schafer Condon Carter, June 2009-June 2011
+Revolutionized development practices by implementing a bug tracking system, automating all deployments, introducing source control, backup systems, and advocating for standards-based web development. These practices saved the company from losing multiple clients, and from having to hire additional staff.
+
+**Clients and Projects:** armourmeats.com, schafercondoncarter.com, johnmorrellfoodgroup.com, margheritameats.com, eckrich.com, healthy-ones.com
+
+###### Web Development Intern, Weber Shandwick, August 2008-October 2008
+Cut my teeth on the Got Milk? campaign, and built a much-loved social media aggregator for the Detroit Pistons.
+
+**Clients and Projects:** Got Milk? campaign, Chevy Aveo, Detroit Pistons, Florida Orange Juice, Vought Aircraft Industries
+
+###### Independent Web Designer/Developer, February 2008-June 2009
+Built CMS-based sites for multiple clients in the Advertising industry.
+
+**Clients and Projects:** Weber Shandwick, Rand Media Group
+
+### Key Skills
+Ruby, Rails, JavaScript, HTML, CSS, Automated Testing, Test Driven Development, Behavior Driven Development, User Interface Design, Agile Project Management, Relational Databases, NoSQL Data Stores, DevOps, Linux, Deployment Practices, Source Control, Continuous Integration, PHP, Web Analytics, Social Media Management, Content Creation, Programming Education, Project Estimation, Small Business Management
+
+### Education
+
+###### Master's Certificate, Graphic and Web Design, 2008
+Studied graphic design principles, the Adobe Creative Suite, HTML and CSS, and print production.
+
+###### B.Mus. Cello Performance, Peabody Institute of Music, 2007
+Studied classical Cello performance under Alan Stepansky, former principle cellist of the New York Philharmonic.

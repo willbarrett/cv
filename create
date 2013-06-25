@@ -1,0 +1,16 @@
+#! /usr/bin/env ruby
+
+require 'pdfkit'
+require 'redcarpet'
+require 'sass'
+
+sassengine = Sass::Engine.new(IO.read('templates/format.sass', syntax: :sass))
+IO.write('generated/format.css', sassengine.render)
+
+markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
+html = markdown.render(IO.read('templates/cv.mdown'))
+
+kit = PDFKit.new(html, page_size: 'Letter')
+kit.stylesheets << 'generated/format.css'
+kit.to_file('generated/cv.pdf')
+

@@ -1,0 +1,11 @@
+# Will Barrett's CV
+
+I really don't like Microsoft Word, or Open Office for that matter. I like HTML, CSS, and Markdown. So I wrote a little script to generate my CV as a PDF from Markdown and SASS templates.
+
+### Requirements
+
+wkhtmltopdf needs to be installed. On Debian, this can be done with "apt-get install wkhtmltopdf". It should be in the software sources. For another platform, check out the [wkhtmltopdf documentation](https://code.google.com/p/wkhtmltopdf/)
+
+
+Thanks for listening,
+Will
