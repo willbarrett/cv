@@ -5,10 +5,13 @@
 
 ### Professional Experience
 
-###### Associate Instructor, Starter School, Winter 2013
+###### Associate Instructor, Starter School, February/March 2014
 I will be teaching Deployment Practices at Starter School this winter - we will be covering server configuration and automated deployment of Ruby on Rails web applications. The class was established after the success of a one-day seminar presented to Starter League graduates.
 
-###### Principal Consultant, Tall Green Tree Inc. June 2011-Present
+###### Senior Software Engineer, Rouxbe Video Technologies (rouxbe.com), June 2013-Present
+Worked as part of a team of 3 developers to support business goals in an unstable startup environment. Successfully accomplished development goals in a challenging environment with a large amount of inherited technical debt. Converted an existing small test suite to rspec, and greatly expanded test coverage. Created a provisioning system of bash scripts to allow for fast scaling in concert with the existing infrastructure, which precluded a more advanced approach.
+
+###### Principal Consultant, Tall Green Tree Inc. June 2011-June 2013
 Started and grew a product development consulting practice from a single consultant to a small team. Built web applications for startups in Chicago, San Francisco, and elsewhere. 
 
 **Clients and Projects:** Rentalutions.com, VentureMena.com, Byliner.com, DashScribe.com, VisitorLabs.com, TOS.io, bluebuzzard.com, pressedgarments.com
