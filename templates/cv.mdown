@@ -1,15 +1,18 @@
 # Will Barrett
 ## Web Developer
 
-**Goal:** Have a new adventure. Change the world. Have some fun doing it. My current focus is on Ruby on Rails and MVC Javascript development, though I'm open to other languages and frameworks. I love to learn.
+**Goal:** Have a new adventure. Change the world. Learn and grow. Have some fun doing it.
 
 ### Professional Experience
 
-###### Associate Instructor, Starter School, February/March 2014
-I will be teaching DevOps, TDD, and ECommerce at Starter School this winter - we will be covering server configuration and automated deployment of Ruby on Rails web applications. The class was established after the success of a one-day seminar presented to Starter League graduates.
+###### Software Developer, Sqwiggle (sqwiggle.com) and Speak (speak.io), April 2014-Present
+Full-stack developer on both the Sqwiggle and Speak projects. Employee #8 at Sqwiggle, #4 at Speak after the pivot/downsize (January 2015). Both teams were 100% remote. Both applications are WebRTC-based audio and video communications solutions (competitors to Google Hangouts, Skype, etc). Sqwiggle was a rather monolythic Rails application with a single-page web front-end, Speak a microservice- and event-source-based approach built in Ruby, Google Go, and JavaScript with RabbitMQ as the main transport layer. The Speak client is an installed, Electron-based application. I wear many hats: DevOps, programming, support, marketing, PR, customer research, product direction, etc.
 
-###### Senior Software Engineer, Rouxbe Video Technologies (rouxbe.com), June 2013-Present
-Worked as part of a team of three developers. Successfully accomplished development goals in a challenging environment with a large amount of inherited technical debt. Converted an existing small test suite to rspec, and greatly expanded test coverage. Created a provisioning system of bash scripts to allow for fast scaling in concert with the existing infrastructure, which precluded a more advanced approach.
+###### Associate Instructor, Starter School, February/March 2014
+Taught DevOps at Starter School - we covered server configuration and automated deployment of Ruby on Rails web applications. The class was established after the success of a one-day seminar presented to Starter League graduates.
+
+###### Senior Software Engineer, Rouxbe Video Technologies (rouxbe.com), June 2013-March 2014
+Worked as part of a remote team of three developers. Successfully accomplished development goals in a challenging environment with a large amount of inherited technical debt. Converted an existing small test suite to rspec, and greatly expanded test coverage. Created a provisioning system of bash scripts to allow for fast scaling in concert with the existing infrastructure, which precluded a more advanced approach.
 
 ###### Principal Consultant, Tall Green Tree Inc. June 2011-June 2013
 Started and grew a product development consulting practice from a single consultant to a small team. Built web applications for startups in Chicago, San Francisco, and elsewhere. 
