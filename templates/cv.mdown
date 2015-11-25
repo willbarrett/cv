@@ -5,7 +5,7 @@
 
 ### Professional Experience
 
-###### Software Developer, Sqwiggle (sqwiggle.com) and Speak (speak.io), April 2014-Present
+###### Software Developer, Sqwiggle (sqwiggle.com) and Speak (speak.io), April 2014-December 2015
 Full-stack developer on both the Sqwiggle and Speak projects. Employee #8 at Sqwiggle, #4 at Speak after the pivot/downsize (January 2015). Both teams were 100% remote. Both applications are WebRTC-based audio and video communications solutions (competitors to Google Hangouts, Skype, etc). Sqwiggle was a rather monolithic Rails application with a single-page web front-end, Speak a microservice- and event-source-based approach built in Ruby, Google Go, and JavaScript with RabbitMQ as the main transport layer. The Speak client is an installed, Electron-based application. I wear many hats: DevOps, programming, support, marketing, PR, customer research, product direction, etc.
 
 ###### Associate Instructor, Starter School, February/March 2014
