@@ -1,41 +1,29 @@
-# Will Barrett
-## Web Developer
+# Will Barrett, Senior Software Engineer
 
-**Goal:** Have a new adventure. Change the world. Learn and grow. Have some fun doing it.
+##### **Goal:** Have a new adventure. Change the world. Learn and grow. Have some fun doing it. <br /><strong>Contact</strong>: hi@willbarrett.me, 410-218-7957
 
 ### Professional Experience
 
-###### Software Developer, Sqwiggle (sqwiggle.com) and Speak (speak.io), April 2014-December 2015
-Full-stack developer on both the Sqwiggle and Speak projects. Employee #8 at Sqwiggle, #4 at Speak after the pivot/downsize (January 2015). Both teams were 100% remote. Both applications are WebRTC-based audio and video communications solutions (competitors to Google Hangouts, Skype, etc). Sqwiggle was a rather monolithic Rails application with a single-page web front-end, Speak a microservice- and event-source-based approach built in Ruby, Google Go, and JavaScript with RabbitMQ as the main transport layer. The Speak client is an installed, Electron-based application. I wear many hats: DevOps, programming, support, marketing, PR, customer research, product direction, etc.
+###### Senior Software Engineer, Change.org, February 2016-Present
+After less than two months was made a Team Leader and joined the company's Technical Leadership Group. Primary responsibilities include mentoring junior developers, leading technical projects, and producing quality code.
 
-###### Associate Instructor, Starter School, February/March 2014
-Taught DevOps at Starter School - we covered server configuration and automated deployment of Ruby on Rails web applications. The class was established after the success of a one-day seminar presented to Starter League graduates.
+###### Software Developer, Sqwiggle (sqwiggle.com), Speak (speak.io), April 2014-December 2015
+Employee #8 at Sqwiggle, #4 at Speak after the pivot/downsize (January 2015). Worked heavily on both applications, and was part of re-architecting the system during the pivot, moving from a monolithic Rails application to a microservice architecture.
+
+###### Associate Instructor, Starter School, February-March 2014
+Taught "DevOps". We covered server configuration and automated deployment of Ruby on Rails web applications.
 
 ###### Senior Software Engineer, Rouxbe Video Technologies (rouxbe.com), June 2013-March 2014
-Worked as part of a remote team of three developers. Successfully accomplished development goals in a challenging environment with a large amount of inherited technical debt. Converted an existing small test suite to rspec, and greatly expanded test coverage. Created a provisioning system of bash scripts to allow for fast scaling in concert with the existing infrastructure, which precluded a more advanced approach.
+Worked as part of a remote team of three developers. Successfully deployed a live classroom feature in a technical debt-riddled system on a short timeline. Greatly expanded test coverage of the existing system. Created a provisioning system allowing for fast scaling.
 
 ###### Principal Consultant, Tall Green Tree Inc. June 2011-June 2013
-Started and grew a product development consulting practice from a single consultant to a small team. Built web applications for startups in Chicago, San Francisco, and elsewhere. 
+Started and grew a consulting practice primarily catering to startups. Built MVPs for startups in Chicago, San Francisco, and elsewhere. Expanded to employ myself, one other FTE and multiple sub-contractors. **Projects:** Rentalutions.com, VentureMena.com, Byliner.com, DashScribe.com, VisitorLabs.com, TOS.io, bluebuzzard.com, pressedgarments.com
 
-**Clients and Projects:** Rentalutions.com, VentureMena.com, Byliner.com, DashScribe.com, VisitorLabs.com, TOS.io, bluebuzzard.com, pressedgarments.com
-
-###### Web Developer, Schafer Condon Carter, June 2009-June 2011
-Revolutionized development practices by implementing a bug tracking system, automating all deployments, introducing source control, backup systems, and advocating for standards-based web development. These practices saved the company from losing multiple clients, and from having to hire additional staff.
-
-**Clients and Projects:** armourmeats.com, schafercondoncarter.com, johnmorrellfoodgroup.com, margheritameats.com, eckrich.com, healthy-ones.com
-
-###### Web Development Intern, Weber Shandwick, August 2008-October 2008
-Cut my teeth on the Got Milk? campaign, and built a much-loved social media aggregator for the Detroit Pistons.
-
-**Clients and Projects:** Got Milk? campaign, Chevy Aveo, Detroit Pistons, Florida Orange Juice, Vought Aircraft Industries
-
-###### Independent Web Designer/Developer, February 2008-June 2009
-Built CMS-based sites for multiple clients in the Advertising industry.
-
-**Clients and Projects:** Weber Shandwick, Rand Media Group
+###### Advertising Industry Work, August 2008-June 2011
+Cut my teeth as a programmer on the Got Milk? campaign in 2008 at Weber Shandwick as an intern. Spent time as a freelancer and as a full-time employee of Schafer Condon Carter in Chicago. Worked on web projects for multiple large corporations including McDonalds, Jim Beam, and Armor Eckrich. Improved development and deployment practices at Schafer Condon Carter substantially, saving the company from the loss of multiple clients and eliminating the need to grow the size of the team.
 
 ### Key Skills
-Ruby, Rails, JavaScript, HTML, CSS, Automated Testing, Test Driven Development, Behavior Driven Development, User Interface Design, Agile Project Management, Relational Databases, NoSQL Data Stores, DevOps, Linux, Deployment Practices, Source Control, Continuous Integration, PHP, Web Analytics, Social Media Management, Content Creation, Programming Education, Project Estimation, Small Business Management
+Agile Project Management, Programming Education/Mentorship, Project Estimation, Ruby, Rails, Google Go, JavaScript, TDD/BDD, Relational and Non-Relational Databases, Deployment Practices, Provisioning Systems
 
 ### Education
 
