@@ -1,29 +1,26 @@
-# Will Barrett, Senior Software Engineer
+# Will Barrett,
 
-##### **Goal:** Have a new adventure. Change the world. Learn and grow. Have some fun doing it. <br /><strong>Contact</strong>: hi@willbarrett.me, 410-218-7957
+##### <strong>Email</strong>: barrett.william@gmail.com, <strong>Phone</strong>: 410-218-7957
 
 ### Professional Experience
 
-###### Senior Software Engineer, Change.org, February 2016-Present
-After less than two months was made a Team Leader and joined the company's Technical Leadership Group. After another month was granted management responsibilities over a team of 5 engineers. Created a system to allow zero-downtime migrations of large MySQL tables. Improved the technical foundation for authorization code by creating a polymorphic roles system. Reworked the organization's onboarding process for new engineers. Rearchitected the discovery feed to be more extensible.
+###### Senior Software Engineer II, Change.org, November 2017-Present<br/>Engineering Manager II, Change.org, May 2017-November 2017 <br />Engineering Manager I, Change.org, August 2016-May 2017 <br />Senior Software Engineer, Change.org, February 2016-August 2016
+Technical leader. Managed small teams. Mentored engineers. Was a member of the on-call rotation, led feature teams and spent time on the Platform Team. Currently a member of the Communications Platform team. Created a system to allow zero-downtime migrations of large MySQL tables. Led the team that created the digest email system, a weekly personalized send to 50,000,000 individuals. Co-architected a high-volume distributed messaging system for the comms platform. Worked in Elixir, Python, Ruby, Go, and JavaScript. DevOps work with Chef. Data Engineering work with Airflow.
 
 ###### Software Developer, Sqwiggle (sqwiggle.com), Speak (speak.io), April 2014-December 2015
-Employee #8 at Sqwiggle, #4 at Speak after the pivot/downsize (January 2015). Worked heavily on both applications, and was part of re-architecting the system during the pivot, moving from a monolithic Rails application to a microservice architecture.
+Employee #8 at Sqwiggle, #4 at Speak after the pivot/downsize (January 2015). Worked heavily on both applications, and was part of re-architecting the system during the pivot, moving from a monolithic Rails application to a microservice architecture. Worked in Ruby, Go, and JavaScript.
 
 ###### Associate Instructor, Starter School, February-March 2014
 Taught "DevOps". We covered server configuration and automated deployment of Ruby on Rails web applications.
 
 ###### Senior Software Engineer, Rouxbe Video Technologies (rouxbe.com), June 2013-March 2014
-Worked as part of a remote team of three developers. Successfully deployed a live classroom feature in a technical debt-riddled system on a short timeline. Greatly expanded test coverage of the existing system. Created a provisioning system allowing for fast scaling.
+Worked as part of a remote team of three developers. Successfully deployed a live classroom feature in a technical debt-riddled system on a short timeline. Greatly expanded test coverage of the existing system. Created a provisioning system allowing for fast scaling. Worked in Ruby on Rails and JavaScript.
 
 ###### Principal Consultant, Tall Green Tree Inc. June 2011-June 2013
-Started and grew a consulting practice primarily catering to startups. Built MVPs for startups in Chicago, San Francisco, and elsewhere. Expanded to employ myself, one other FTE and multiple sub-contractors. **Projects:** Rentalutions.com, VentureMena.com, Byliner.com, DashScribe.com, VisitorLabs.com, TOS.io, bluebuzzard.com, pressedgarments.com
+Started and grew a consulting practice primarily catering to startups. Built MVPs for startups in Chicago, San Francisco, and elsewhere. Expanded to employ myself, one other FTE and multiple sub-contractors. **Projects:** Rentalutions.com, VentureMena.com, Byliner.com, DashScribe.com, VisitorLabs.com, TOS.io, bluebuzzard.com, pressedgarments.com. Worked in Ruby and JavaScript.
 
 ###### Advertising Industry Work, August 2008-June 2011
-Cut my teeth as a programmer on the Got Milk? campaign in 2008 at Weber Shandwick as an intern. Spent time as a freelancer and as a full-time employee of Schafer Condon Carter in Chicago. Worked on web projects for multiple large corporations including McDonalds, Jim Beam, and Armor Eckrich. Improved development and deployment practices at Schafer Condon Carter substantially, saving the company from the loss of multiple clients and eliminating the need to grow the size of the team.
-
-### Key Skills
-Programming Education/Mentorship, Project Estimation, Ruby, Rails, Google Go, JavaScript, TDD/BDD, Relational and Non-Relational Databases, Distributed Systems, Deployment Practices, Provisioning Systems
+Cut my teeth as a programmer on the Got Milk? campaign in 2008 at Weber Shandwick as an intern. Spent time as a freelancer and as a full-time employee of Schafer Condon Carter in Chicago. Worked on web projects for multiple large corporations including McDonalds, Jim Beam, and Armor Eckrich. Improved development and deployment practices at Schafer Condon Carter substantially, saving the company from the loss of multiple clients and eliminating the need to grow the size of the team. Worked in PHP, JavaScript, Ruby, and ActionScript.
 
 ### Education
 
