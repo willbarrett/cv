@@ -4,6 +4,7 @@ GEM
     pdfkit (0.5.4)
     redcarpet (2.3.0)
     sass (3.2.9)
+    wkhtmltopdf-binary (0.12.4)
 
 PLATFORMS
   ruby
@@ -12,3 +13,4 @@ DEPENDENCIES
   pdfkit
   redcarpet
   sass
+  wkhtmltopdf-binary
