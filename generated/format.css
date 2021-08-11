@@ -1,5 +1,5 @@
 body {
-  font-size: 48px;
+  font-size: 12px;
   line-height: 1.6em; }
 
 h1 {
@@ -31,4 +31,7 @@ h6 {
   margin: 1em 0 0 0; }
 
 p {
+  margin: 0; }
+
+ul {
   margin: 0; }
