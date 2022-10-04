@@ -1,7 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    pdfkit (0.5.4)
+    pdfkit (0.8.7)
     redcarpet (2.3.0)
     sass (3.2.9)
     wkhtmltopdf-binary (0.12.4)
