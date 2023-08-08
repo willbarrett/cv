@@ -3,21 +3,39 @@
 ##### <strong>Email</strong>: barrett.william@gmail.com, <strong>Phone</strong>: 410-218-7957
 
 ### Professional Experience
-###### Staff Software Engineer, Preset, September 2019-August 2021
-* Managed, led, and grew a Feature Team from 3 Engineers to 7 Engineers across 3 timezones from US Pacific to EU West.
-* Led the launch of Preset's Private Beta program.
+
+###### Chief Technical Officer, Bikehub/Tranzito, January 2023-Present<br />Head of Engineering, Bikehub/Tranzito,  June 2022-January 2023<br /> Principal Software Engineer, Bikehub/Tranzito, September 2021-June 2022
+* Leading a distributed team of Software Engineers, Hardware Vendors, and Electrical Engineering Consultants to develop a new type of bus stop for LA.
+* Leading the development of CurbCMS, a software application to support the new bus stop program in Los Angeles, including geospatial, monitoring, alerting, and advertising tracking features.
+* Supporting and improving an existing system of bike parking kiosks around California (LA Metro, San Francisco Bay Area, and Sacramento)
+* Implemented best practices in software deployment and management, leading to decreased downtime and increased reliability across core systems.
+
+###### Code Reviewer, PullRequest/HackerOne, December 2019-Present
+* Reviewing client code part-time during my off hours, discovering and recommending fixes for various problems, including security concerns, performance problems, and maintainability issues.
+* Wrote various content marketing blog posts for the PullRequest blog before its acquisition by HackerOne, leading to increased traffic and inbound interest in the platform.
+
+###### Contributor/PMC Member, Apache Superset, March 2020-Present
+* Contributor/Leader on a popular open-source project
+* Developed and implemented coding standards for the project
+* Resolved several security vulnerabilities in the open-source project
 * Led the development of Alerts and Reports in Superset, Preset's most-requested feature during our Private Beta.
+
+###### Staff Software Engineer, Preset, September 2019-August 2021
+* Managed, led, and grew a Feature Team from 3 Engineers to 7 Engineers across three time zones from US Pacific to EU West.
+* Led the launch of Preset's Private Beta program.
 * Led the development of Software as a Service features in preparation for Preset's GA launch.
 * Transitioned the team from majority on-site to distributed during the COVID-19 lockdowns of 2020.
+* Won an all-Engineering hackathon with a team demonstrating a functioning, automated multiple-instance production deployment system.
 
 ###### Staff Software Engineer, Entelo, March 2019-August 2019
-* Led a project involving the whole Engineering team that cut total AWS spend by 50% over the course of 2 months.
+* Led a project involving the whole Engineering team that cut total AWS spend by 50% (approximately $500k/year) over two months.
 * Cut build times for the organization on their Rails monolith in CI from 20 minutes to 4 minutes.
-* Led a project to drastically increase the security of the Rails monolith.
+* Led a project to increase the security of the Rails monolith drastically.
+* Won an all-Engineering hackathon with a team that prototyped leveraging discarded developer laptops as a Continuous Integration cluster.
 
 ###### Staff Engineer, thredUP, January-February 2019
-Extrememly short stint at thredUP.com on their pricing team due to the announcement an office move that would have resulted in an untenable commute.
-
+* Extremely short stint at thredUP.com on their pricing team due to the announcement of an office move that would have resulted in an untenable commute.
+* Won an all-Engineering hackathon with a team that prototyped a new search interface.
 * Worked on analysis of pricing experiments in Databricks/Spark
 * Assisted in the design of a new pricing service
 * Planned a system for deploying list price models to production.
@@ -25,30 +43,30 @@ Extrememly short stint at thredUP.com on their pricing team due to the announcem
 ###### Senior Software Engineer II, Change.org, November 2017-December 2018<br/>Engineering Manager II, Change.org, May 2017-November 2017 <br />Engineering Manager I, Change.org, August 2016-May 2017 <br />Senior Software Engineer, Change.org, February 2016-August 2016
 * Led and managed multiple full-stack feature teams.
 * Co-architected a high-volume distributed messaging system for the comms platform, replacing Salesforce and saving the company millions yearly.
-* Created a system to allow zero-downtime migrations of large MySQL tables greatly increasing stability and uptime of the system.
-* Led the team that created the digest email system, a weekly personalized send to 50,000,000 individuals in 18 different languages.
+* Created a system to allow zero-downtime migrations of large MySQL tables, significantly increasing the stability and uptime of the system.
+* Led the team that created the digest email system, a weekly personalized send to 50,000,000 individuals in 18 languages.
 * Single-handedly supported Change.org's data engineering systems for months near the end of my tenure.
 
 ###### Software Developer, Sqwiggle (sqwiggle.com), Speak (speak.io), April 2014-December 2015
 * Implemented systems allowing Sqwiggle and Speak to move from a peer-to-peer WebRTC connection to leveraging geo-aware video MCU systems, removing low participant limits on the platforms.
 * Acted as the primary Operations Engineer for both platforms, supporting both application programs and Video MCU systems in AWS.
-* Acted as first-line support for the product, handling customer issues directly and conversing directly with clients and prospects.
+* Acted as first-line support for the product, handling customer issues and conversing directly with clients and prospects.
 
 ###### Associate Instructor, Starter School, February-March 2014
-Taught "DevOps". We covered server configuration and automated deployment of Ruby on Rails web applications.
+Taught "DevOps." We covered server configuration and automated deployment of Ruby on Rails web applications.
 
 ###### Senior Software Engineer, Rouxbe Video Technologies (rouxbe.com), June 2013-March 2014
-* Created a provisioning system to allow for fast scaling in concert with the existing infrastructure.
+* Created a provisioning system for fast scaling with the existing infrastructure.
 * Implemented a real-time classroom video integration for distributed course delivery.
 
 ###### Principal Consultant, Tall Green Tree Inc. June 2011-June 2013
 * Built the initial MVP of Rentalutions.com, later rebranded to Avail and recently acquired by Realtor.com
-* Assisted in the founding of Bikeindex.org, a 503c non-profit that currently is the largest national registry of bicycles assisting in the recovery of stolen bikes. So far, the BikeIndex has assisted in the recovery of over $15MM in stolen property.
+* Assisted in founding Bikeindex.org, a 503c non-profit that currently is the largest national registry of bicycles, assisting in the recovery of stolen bikes. So far, the BikeIndex has assisted in the recovery of over $15MM in stolen property.
 
 ###### Advertising Industry Work, August 2008-June 2011
-Cut my teeth as a programmer on the Got Milk? campaign in 2008 at Weber Shandwick as an intern. Spent time at Schafer Condon Carter in Chicago. Worked on web projects for multiple corporations including McDonalds, Jim Beam, and Armor Eckrich. 
+Cut my teeth as a programmer on the Got Milk? Campaign in 2008 at Weber Shandwick as an intern. I spent time at Schafer Condon Carter in Chicago. Worked on web projects for multiple corporations, including Mcdonald's, Jim Beam, and Armor Eckrich. 
 
 ### Education
 
 ###### B.Mus. Cello Performance, Peabody Institute of Music, 2007
-Studied classical Cello performance under Alan Stepansky, former principle cellist of the New York Philharmonic.
+Studied classical Cello performance under Alan Stepansky, former principal cellist of the New York Philharmonic.

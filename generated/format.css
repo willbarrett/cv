@@ -1,11 +1,12 @@
 body {
-  font-size: 12px;
+  font-size: 36pt;
   line-height: 1.6em; }
 
 h1 {
   font-size: 2em;
-  line-height: 1.6em;
+  line-height: 1em;
   margin-bottom: 0;
+  padding-bottom: 0;
   text-align: center; }
 
 h2 {
@@ -31,6 +32,7 @@ h6 {
   margin: 1em 0 0 0; }
 
 p {
+  font-size: 1em;
   margin: 0; }
 
 ul {
