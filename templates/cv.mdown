@@ -60,8 +60,8 @@
 * Implemented a real-time classroom video integration for distributed course delivery.
 
 ###### Principal Consultant, Tall Green Tree Inc. June 2011-June 2013
-* Built the initial MVP of Rentalutions.com, later rebranded to Avail and recently acquired by Realtor.com
-* Assisted in founding Bikeindex.org, a 503c non-profit that currently is the largest national registry of bicycles, assisting in the recovery of stolen bikes. So far, the BikeIndex has assisted in the recovery of over $15MM in stolen property.
+* Built the initial MVP of Rentalutions.com, later rebranded to Avail and acquired by Realtor.com
+* Assisted in founding Bikeindex.org, a 503c non-profit currently the largest national registry of bicycles, assisting in recovering stolen bikes. So far, the BikeIndex has assisted in the recovery of over $15MM in stolen property.
 
 ###### Advertising Industry Work, August 2008-June 2011
 * Cut my teeth as a programmer on the Got Milk? Campaign in 2008 at Weber Shandwick as an intern. 
