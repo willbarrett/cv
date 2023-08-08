@@ -53,7 +53,7 @@
 * Acted as first-line support for the product, handling customer issues and conversing directly with clients and prospects.
 
 ###### Associate Instructor, Starter School, February-March 2014
-Taught "DevOps." We covered server configuration and automated deployment of Ruby on Rails web applications.
+* Taught "DevOps." We covered server configuration and automated deployment of Ruby on Rails web applications.
 
 ###### Senior Software Engineer, Rouxbe Video Technologies (rouxbe.com), June 2013-March 2014
 * Created a provisioning system for fast scaling with the existing infrastructure.
@@ -64,7 +64,9 @@ Taught "DevOps." We covered server configuration and automated deployment of Rub
 * Assisted in founding Bikeindex.org, a 503c non-profit that currently is the largest national registry of bicycles, assisting in the recovery of stolen bikes. So far, the BikeIndex has assisted in the recovery of over $15MM in stolen property.
 
 ###### Advertising Industry Work, August 2008-June 2011
-Cut my teeth as a programmer on the Got Milk? Campaign in 2008 at Weber Shandwick as an intern. I spent time at Schafer Condon Carter in Chicago. Worked on web projects for multiple corporations, including Mcdonald's, Jim Beam, and Armor Eckrich. 
+* Cut my teeth as a programmer on the Got Milk? Campaign in 2008 at Weber Shandwick as an intern. 
+* I spent time at Schafer Condon Carter in Chicago. 
+* Worked on web projects for multiple corporations, including Mcdonald's, Jim Beam, and Armor Eckrich.
 
 ### Education
 
