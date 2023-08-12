@@ -1,6 +1,6 @@
 # Will Barrett
 
-##### <strong>Email</strong>: barrett.william@gmail.com, <strong>Phone</strong>: 410-218-7957, <strong>Location</strong>: Daly City, California
+##### <strong>Email</strong>: barrett.william@gmail.com, <strong>Phone</strong>: 410-218-7957, <strong>Location</strong>: Daly City, California<br /><strong>Linkedin:</strong> [willbarrettdev](https://www.linkedin.com/in/willbarrettdev/), <strong>Github:</strong> [willbarrett](https://github.com/willbarrett)
 
 ### Professional Experience
 
@@ -33,6 +33,8 @@ Extremely short stint on their pricing team due to the announcement of an office
 * Worked on analysis of pricing experiments in Databricks/Spark.
 
 ###### Senior Software Engineer II, Change.org, November 2017-December 2018<br/>Engineering Manager II, Change.org, May 2017-November 2017 <br />Engineering Manager I, Change.org, August 2016-May 2017 <br />Senior Software Engineer, Change.org, February 2016-August 2016
+The largest petition website in the world, organized as a Benefit Corporation, encountered financial challenges during my tenure.
+
 * Created a system to allow zero-downtime migrations of large MySQL tables, significantly increasing stability and uptime.
 * Promoted to lead and manage multiple full-stack feature teams, including one that created the digest email system, a weekly personalized send to 50,000,000 individuals in 18 languages.
 * Stepped out of management to work on platform concerns and co-architected a high-volume distributed messaging system in Elixir for the comms platform, replacing Salesforce and saving the company approximately $4MM yearly.
