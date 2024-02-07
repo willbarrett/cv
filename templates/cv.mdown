@@ -4,19 +4,21 @@
 
 ### Professional Experience
 
-###### Chief Technical Officer, Bikehub/Tranzito, January 2023-Present<br />Head of Engineering, Bikehub/Tranzito,  June 2022-January 2023<br /> Principal Software Engineer, Bikehub/Tranzito, September 2021-June 2022
+###### Fractional CTO, Barrett Ventures, December 2023-Present
+I work with founders of startups to build their platforms and grow their teams.
+
+###### Chief Technical Officer, Bikehub/Tranzito, January 2023-December 2023<br />Head of Engineering, Bikehub/Tranzito,  June 2022-January 2023<br /> Principal Software Engineer, Bikehub/Tranzito, September 2021-June 2022
 A 50-person company executing on multiple government contracts, including a tens-of-millions program to upgrade Los Angeles's bus stops with technology-enabled infrastructure.
 
-* Leading the development of CurbCMS, a software application to support the new bus stop program in Los Angeles, including geospatial, monitoring, alerting, and advertising tracking features leveraging AWS, Ruby on Rails, Apache Superset, ElasticSearch, Postgres, Jenkins, and various IoT technologies.
+* Led the development of CurbCMS, a software application to support the new bus stop program in Los Angeles, including geospatial, monitoring, alerting, and advertising tracking features leveraging AWS, Ruby on Rails, Apache Superset, ElasticSearch, Postgres, Jenkins, and various IoT technologies.
 * Responsible for all hardware selection and technology support for multiple government-funded programs, working closely with Electrical Engineers and hardware vendors.
-* Supporting and improving an existing system of bike parking kiosks around California through the hardware and software lifecycle.
+* Supported and improved an existing system of bike parking kiosks around California through the hardware and software lifecycle.
 
 ###### Staff Software Engineer, Preset, September 2019-August 2021
 Employee 10 at an Andreesen- and Sequoia-backed startup building a business around the open-source project Apache Superset.
 
 * Managed, led, and grew a Feature Team from 3 Engineers to 7 Engineers across three time zones from US Pacific to EU West.
 * Led the development of Software as a Service features in preparation for Preset's General Availability launch, including the sign-up flow, account management, payment systems, and management page for multiple Superset instances.
-* Transitioned the team from majority on-site to distributed during the COVID-19 lockdowns of 2020.
 * Won an all-Engineering hackathon for demonstrating a functioning, automated multiple-instance production deployment system.
 
 ###### Staff Software Engineer, Entelo, March 2019-August 2019
@@ -72,9 +74,6 @@ Apache Superset is an open-source business analytics web application that sits o
 * Reviewing client code part-time during my off hours, discovering and recommending fixes for various problems, including security concerns, performance problems, and maintainability issues for client organizations.
 * Wrote content marketing blog posts for the PullRequest blog before the acquisition by HackerOne, leading to increased traffic and inbound interest in the platform. Topics included catching OWASP security vulnerabilities, code review best practices, etc.
 * Presented at HackerOne's Security@22 conference, discussing why code review matters for security.
-
-###### Associate Instructor, Starter School, February-March 2014
-Starter School was a bootcamp program located in Chicago's Merchandise Mart coworking space. I taught "DevOps." We covered server configuration and automated deployment of Ruby on Rails web applications.
 
 ### Education
 
