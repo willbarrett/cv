@@ -1,38 +1,33 @@
 # Will Barrett
 
-##### <strong>Email</strong>: barrett.william@gmail.com, <strong>Phone</strong>: 410-218-7957, <strong>Location</strong>: Daly City, California<br /><strong>Linkedin:</strong> [willbarrettdev](https://www.linkedin.com/in/willbarrettdev/), <strong>Github:</strong> [willbarrett](https://github.com/willbarrett)
+##### <strong>Email</strong>: will@barrettventures.co, <strong>Phone</strong>: 415-236-3888, <strong>Location</strong>: San Francisco Bay Area, California<br /><strong>Linkedin:</strong> [willbarrettdev](https://www.linkedin.com/in/willbarrettdev/), <strong>Github:</strong> [willbarrett](https://github.com/willbarrett)
 
 ### Professional Experience
 
 ###### Fractional CTO, Barrett Ventures, December 2023-Present
-I work with founders of startups to build their platforms and grow their teams.
+Independent consultant focused on technology leadership and strategy.
+
+* Leading teams that successfully deliver products across the Data Analytics, Home Improvement, Government, and Consumer spaces.
+* Building nearshore and offshore Product and Engineering teams for multiple companies.
+* Performed a multi-month audit of a 30-person Engineering team for a leading consumer brand, leading to Board-level recommendations and improved EBITA multiple in preparation for acquisition.
 
 ###### Chief Technical Officer, Bikehub/Tranzito, January 2023-December 2023<br />Head of Engineering, Bikehub/Tranzito,  June 2022-January 2023<br /> Principal Software Engineer, Bikehub/Tranzito, September 2021-June 2022
 A 50-person company executing on multiple government contracts, including a tens-of-millions program to upgrade Los Angeles's bus stops with technology-enabled infrastructure.
 
 * Led the development of CurbCMS, a software application to support the new bus stop program in Los Angeles, including geospatial, monitoring, alerting, and advertising tracking features leveraging AWS, Ruby on Rails, Apache Superset, ElasticSearch, Postgres, Jenkins, and various IoT technologies.
 * Responsible for all hardware selection and technology support for multiple government-funded programs, working closely with Electrical Engineers and hardware vendors.
-* Supported and improved an existing system of bike parking kiosks around California through the hardware and software lifecycle.
 
 ###### Staff Software Engineer, Preset, September 2019-August 2021
 Employee 10 at an Andreesen- and Sequoia-backed startup building a business around the open-source project Apache Superset.
 
 * Managed, led, and grew a Feature Team from 3 Engineers to 7 Engineers across three time zones from US Pacific to EU West.
 * Led the development of Software as a Service features in preparation for Preset's General Availability launch, including the sign-up flow, account management, payment systems, and management page for multiple Superset instances.
-* Won an all-Engineering hackathon for demonstrating a functioning, automated multiple-instance production deployment system.
 
 ###### Staff Software Engineer, Entelo, March 2019-August 2019
 Short stint due to an Engineering team and Executive exodus before a merger - joined a 30-person team and left a 6-person team.
 
 * Led a project involving the whole Engineering team that cut total AWS spend by 50% (approximately $500k/year) over two months.
-* Cut build times for the organization on their Rails monolith in CI from 20 minutes to 4 minutes.
 * Won an all-Engineering hackathon for leveraging discarded developer laptops as a Continuous Integration cluster.
-
-###### Staff Engineer, thredUP, January-February 2019
-Extremely short stint on their pricing team due to the announcement of an office move resulting in an untenable commute.
-
-* Won an all-Engineering hackathon for prototyping a new search interface.
-* Worked on analysis of pricing experiments in Databricks/Spark.
 
 ###### Senior Software Engineer II, Change.org, November 2017-December 2018<br/>Engineering Manager II, Change.org, May 2017-November 2017 <br />Engineering Manager I, Change.org, August 2016-May 2017 <br />Senior Software Engineer, Change.org, February 2016-August 2016
 The largest petition website in the world, organized as a Benefit Corporation, encountered financial challenges during my tenure.
@@ -40,7 +35,6 @@ The largest petition website in the world, organized as a Benefit Corporation, e
 * Created a system to allow zero-downtime migrations of large MySQL tables, significantly increasing stability and uptime.
 * Promoted to lead and manage multiple full-stack feature teams, including one that created the digest email system, a weekly personalized send to 50,000,000 individuals in 18 languages.
 * Stepped out of management to work on platform concerns and co-architected a high-volume distributed messaging system in Elixir for the comms platform, replacing Salesforce and saving the company approximately $4MM yearly.
-* After Change.org's second round of layoffs during my time there, I single-handedly supported Change.org's data engineering systems for months before my departure.
 
 ###### Software Developer, Sqwiggle (sqwiggle.com), Speak (speak.io), April 2014-December 2015
 Employee number 8 at a startup attempting to bring WebRTC video as a collaboration tool to market for remote work with chat features similar to Slack's current interface.
@@ -67,13 +61,7 @@ Employee number 8 at a startup attempting to bring WebRTC video as a collaborati
 Apache Superset is an open-source business analytics web application that sits on top of organizations' existing data warehouses.
 
 * Developed and implemented coding standards for the project.
-* Audited the system, discovered and resolved several security vulnerabilities.
 * Led the development of Alerts and Reports in Superset, Preset's most-requested feature during our Private Beta.
-
-###### Code Reviewer, PullRequest/HackerOne, December 2019-Present
-* Reviewing client code part-time during my off hours, discovering and recommending fixes for various problems, including security concerns, performance problems, and maintainability issues for client organizations.
-* Wrote content marketing blog posts for the PullRequest blog before the acquisition by HackerOne, leading to increased traffic and inbound interest in the platform. Topics included catching OWASP security vulnerabilities, code review best practices, etc.
-* Presented at HackerOne's Security@22 conference, discussing why code review matters for security.
 
 ### Education
 

@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem "pdfkit", "= 0.8.5"
+gem "pdfkit"
 gem "redcarpet"
 gem "sass"
 gem "wkhtmltopdf-binary"
